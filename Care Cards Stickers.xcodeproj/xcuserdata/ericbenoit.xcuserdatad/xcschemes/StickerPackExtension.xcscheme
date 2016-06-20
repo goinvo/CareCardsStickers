@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "466338541D1484CC00DA3EC2"
+               BlueprintIdentifier = "466534221D189BBB0036F7F8"
                BuildableName = "StickerPackExtension.appex"
                BlueprintName = "StickerPackExtension"
-               ReferencedContainer = "container:Care Cards.xcodeproj">
+               ReferencedContainer = "container:Care Cards Stickers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "466338501D1484CC00DA3EC2"
-               BuildableName = "Care Cards.app"
-               BlueprintName = "Care Cards"
-               ReferencedContainer = "container:Care Cards.xcodeproj">
+               BlueprintIdentifier = "4665341E1D189BBB0036F7F8"
+               BuildableName = "Care Cards Stickers.app"
+               BlueprintName = "Care Cards Stickers"
+               ReferencedContainer = "container:Care Cards Stickers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,10 +46,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "466338541D1484CC00DA3EC2"
+            BlueprintIdentifier = "466534221D189BBB0036F7F8"
             BuildableName = "StickerPackExtension.appex"
             BlueprintName = "StickerPackExtension"
-            ReferencedContainer = "container:Care Cards.xcodeproj">
+            ReferencedContainer = "container:Care Cards Stickers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -70,10 +70,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "466338501D1484CC00DA3EC2"
-            BuildableName = "Care Cards.app"
-            BlueprintName = "Care Cards"
-            ReferencedContainer = "container:Care Cards.xcodeproj">
+            BlueprintIdentifier = "4665341E1D189BBB0036F7F8"
+            BuildableName = "Care Cards Stickers.app"
+            BlueprintName = "Care Cards Stickers"
+            ReferencedContainer = "container:Care Cards Stickers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -90,10 +90,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "466338501D1484CC00DA3EC2"
-            BuildableName = "Care Cards.app"
-            BlueprintName = "Care Cards"
-            ReferencedContainer = "container:Care Cards.xcodeproj">
+            BlueprintIdentifier = "4665341E1D189BBB0036F7F8"
+            BuildableName = "Care Cards Stickers.app"
+            BlueprintName = "Care Cards Stickers"
+            ReferencedContainer = "container:Care Cards Stickers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

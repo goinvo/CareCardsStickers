@@ -1,9 +1,6 @@
 {
   "stickers" : [
     {
-      "filename" : "bringtheexamroomtome.sticker"
-    },
-    {
       "filename" : "askquestions.sticker"
     },
     {
@@ -13,10 +10,7 @@
       "filename" : "bettersafethansorry.sticker"
     },
     {
-      "filename" : "checkyourbloodsugar.sticker"
-    },
-    {
-      "filename" : "ControlYourCholesterol.sticker"
+      "filename" : "bringtheexamroomtome.sticker"
     },
     {
       "filename" : "cardback.sticker"
@@ -25,118 +19,13 @@
       "filename" : "careteam.sticker"
     },
     {
+      "filename" : "checkyourbloodsugar.sticker"
+    },
+    {
+      "filename" : "ControlYourCholesterol.sticker"
+    },
+    {
       "filename" : "doctorasyourlifecoach.sticker"
-    },
-    {
-      "filename" : "washyourhands.sticker"
-    },
-    {
-      "filename" : "whoisyourwingman.sticker"
-    },
-    {
-      "filename" : "wrapitbeforeyoutapit.sticker"
-    },
-    {
-      "filename" : "vaccinate.sticker"
-    },
-    {
-      "filename" : "tellthemitwasgreat.sticker"
-    },
-    {
-      "filename" : "tellsomeone.sticker"
-    },
-    {
-      "filename" : "talkaboutdeath.sticker"
-    },
-    {
-      "filename" : "quitsmoking.sticker"
-    },
-    {
-      "filename" : "shrinkthedrink.sticker"
-    },
-    {
-      "filename" : "sitless.sticker"
-    },
-    {
-      "filename" : "skipthesalt.sticker"
-    },
-    {
-      "filename" : "slowdown.sticker"
-    },
-    {
-      "filename" : "smile.sticker"
-    },
-    {
-      "filename" : "speakup.sticker"
-    },
-    {
-      "filename" : "startnow.sticker"
-    },
-    {
-      "filename" : "takebabysteps.sticker"
-    },
-    {
-      "filename" : "manageweight.sticker"
-    },
-    {
-      "filename" : "manageyourbloodpressure.sticker"
-    },
-    {
-      "filename" : "medicareforall.sticker"
-    },
-    {
-      "filename" : "meditateandprosper.sticker"
-    },
-    {
-      "filename" : "meetyoureats.sticker"
-    },
-    {
-      "filename" : "movemore.sticker"
-    },
-    {
-      "filename" : "nursessave.sticker"
-    },
-    {
-      "filename" : "sugarkills.sticker"
-    },
-    {
-      "filename" : "takemedsontime.sticker"
-    },
-    {
-      "filename" : "getyourflushot.sticker"
-    },
-    {
-      "filename" : "givememydata.sticker"
-    },
-    {
-      "filename" : "healthcarehumanright.sticker"
-    },
-    {
-      "filename" : "keepgoodrecords.sticker"
-    },
-    {
-      "filename" : "foodismedicine.sticker"
-    },
-    {
-      "filename" : "getmoresleep.sticker"
-    },
-    {
-      "filename" : "havemoresex.sticker"
-    },
-    {
-      "filename" : "knowthecost.sticker"
-    },
-    {
-      "filename" : "knowyourdiabetesplan.sticker"
-    },
-    {
-      "filename" : "knowyournumbers.sticker"
-    },
-    {
-      "filename" : "letpatientshelp.sticker"
-    },
-    {
-      "filename" : "liveyourcareplan.sticker"
     },
     {
       "filename" : "doctorinyourpocket.sticker"
@@ -164,6 +53,117 @@
     },
     {
       "filename" : "exerciseismedicine.sticker"
+    },
+    {
+      "filename" : "foodismedicine.sticker"
+    },
+    {
+      "filename" : "getmoresleep.sticker"
+    },
+    {
+      "filename" : "getyourflushot.sticker"
+    },
+    {
+      "filename" : "givememydata.sticker"
+    },
+    {
+      "filename" : "havemoresex.sticker"
+    },
+    {
+      "filename" : "healthcarehumanright.sticker"
+    },
+    {
+      "filename" : "keepgoodrecords.sticker"
+    },
+    {
+      "filename" : "knowthecost.sticker"
+    },
+    {
+      "filename" : "knowyourdiabetesplan.sticker"
+    },
+    {
+      "filename" : "knowyournumbers.sticker"
+    },
+    {
+      "filename" : "letpatientshelp.sticker"
+    },
+    {
+      "filename" : "liveyourcareplan.sticker"
+    },
+    {
+      "filename" : "manageweight.sticker"
+    },
+    {
+      "filename" : "manageyourbloodpressure.sticker"
+    },
+    {
+      "filename" : "medicareforall.sticker"
+    },
+    {
+      "filename" : "meditateandprosper.sticker"
+    },
+    {
+      "filename" : "meetyoureats.sticker"
+    },
+    {
+      "filename" : "movemore.sticker"
+    },
+    {
+      "filename" : "nursessave.sticker"
+    },
+    {
+      "filename" : "quitsmoking.sticker"
+    },
+    {
+      "filename" : "shrinkthedrink.sticker"
+    },
+    {
+      "filename" : "sitless.sticker"
+    },
+    {
+      "filename" : "skipthesalt.sticker"
+    },
+    {
+      "filename" : "slowdown.sticker"
+    },
+    {
+      "filename" : "smile.sticker"
+    },
+    {
+      "filename" : "speakup.sticker"
+    },
+    {
+      "filename" : "startnow.sticker"
+    },
+    {
+      "filename" : "sugarkills.sticker"
+    },
+    {
+      "filename" : "takebabysteps.sticker"
+    },
+    {
+      "filename" : "takemedsontime.sticker"
+    },
+    {
+      "filename" : "talkaboutdeath.sticker"
+    },
+    {
+      "filename" : "tellsomeone.sticker"
+    },
+    {
+      "filename" : "tellthemitwasgreat.sticker"
+    },
+    {
+      "filename" : "vaccinate.sticker"
+    },
+    {
+      "filename" : "washyourhands.sticker"
+    },
+    {
+      "filename" : "whoisyourwingman.sticker"
+    },
+    {
+      "filename" : "wrapitbeforeyoutapit.sticker"
     }
   ],
   "info" : {

@@ -273,6 +273,7 @@
 		466534311D189BBB0036F7F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = B99624GP32;
 				INFOPLIST_FILE = "Care Cards Stickers/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.goinvo.Care-Cards-Stickers";
@@ -284,6 +285,7 @@
 		466534321D189BBB0036F7F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = B99624GP32;
 				INFOPLIST_FILE = "Care Cards Stickers/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.goinvo.Care-Cards-Stickers";
@@ -311,6 +313,7 @@
 				4665342E1D189BBB0036F7F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		466534301D189BBB0036F7F8 /* Build configuration list for PBXNativeTarget "Care Cards Stickers" */ = {
 			isa = XCConfigurationList;
@@ -319,6 +322,7 @@
 				466534321D189BBB0036F7F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
